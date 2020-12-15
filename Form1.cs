@@ -22,7 +22,7 @@ namespace UI_Gun_shoot_game
         // load form and background sound 
         private void Form1_Load(object sender, EventArgs e)
         {
-            myclass.backgrnd();
+            myclass.backgrnd();// caling method
 
         }
         // btn load gun 
